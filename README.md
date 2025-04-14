@@ -1,6 +1,6 @@
 # Project
 Learning projects during lectures
-# 📘 Excel Functions Tutorial untuk Analis Data Pemula
+# 📘 Excel Functions Tutorial 
 
 Tutorial ini dibuat khusus untuk kamu yang baru mulai belajar analisis data menggunakan Microsoft Excel. Kita akan belajar berbagai fungsi populer seperti `IF`, `SUMIF`, `XLOOKUP`, hingga `FILTER` dengan contoh data performa baterai.
 
